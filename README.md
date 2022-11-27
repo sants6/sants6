@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m [@sants 🇧🇷](https://github.com/sants6)
-<p align="center"><img src="donut.gif"/></p>
 
 - 📚 I’m currently learning web development && cybersecurity
 ---
